@@ -41,7 +41,7 @@
     }
     .form{ text-align: left; }
     .login-box { width: 320px; height: 420px; background: #000000; color: #ffffff; top: 50%; left: 50%; position: absolute; transform: translate(-50%, -50%); box-sizing: border-box; padding: 70px 30px; border-radius: 15px; } 
-    .login-box .avatar { width: 100px; height: 100px; border-radius: 50%; position: absolute; top: -50px; left: calc(50% - 50px); } 
+    .login-box .avatar { width: 100px; height: 100px; border-radius: 45% 55% 29% 71% / 67% 37% 63% 33%; position: absolute; top: -50px; left: calc(50% - 50px); } 
     .login-box h1 { margin: 0; padding: 0 0 20px; text-align: center; font-size: 22px; } 
     .login-box label { margin: 0; padding: 0; font-weight: bold; display: block; } 
     .login-box input { width: 100%; margin-bottom: 20px; } .login-box input[type="text"], 
