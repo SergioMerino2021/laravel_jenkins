@@ -13,7 +13,7 @@ class AlumnoController extends Controller{
      */
     public function index()
     {
-        //
+        return view('index');
     }
     public function crearAlumno(){
         return view('crearalumno');
