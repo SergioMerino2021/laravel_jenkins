@@ -23,12 +23,15 @@
     </div> 
     
     <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
     *{
+        
         padding: 0;
         margin: 0;
         box-sizing: border-box;
     }
     body{
+        font-family: 'Roboto', sans-serif;
         width: 100vw;
         height: 100vh;
         display: flex;
